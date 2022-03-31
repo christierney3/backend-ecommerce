@@ -25,7 +25,7 @@ router.get('/:id', async (req, res) => {
   try {
     const productData = await Product.findByPk(req.params.id, {
       // Inlucde Product
-      include: [{ model: Product }, { model: Tag }],
+      include: [{ model: Category }, { model: Tag }],
     });
       // If there is no product data respond with 404
     if (!productData) {
