@@ -9,7 +9,7 @@
 Manage your e-commerce business database with this application. By following along with the video below you can add to, update, delete or view all of the information in the database.
 
 ## Walkthrough Video:
-[![Video](https://youtu.be/g4diEbxaRmc)]
+[![Video](http://img.youtube.com/vi/g4diEbxaRmc/0.jpg)](https://www.youtube.com/watch?v=g4diEbxaRmc)
 
 
 ## Table of Contents
